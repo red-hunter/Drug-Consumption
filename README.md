@@ -1,1 +1,1 @@
-"# Drug Consumption" 
+# Drug Consumption
